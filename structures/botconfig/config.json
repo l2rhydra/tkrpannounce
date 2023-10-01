@@ -1,0 +1,13 @@
+{
+  "env": {
+    "TOKEN": "",
+    "PREFIX": "",
+    "MongoDB_TOKEN": ""
+  },
+  "events": {
+    "Enable_debug": false
+  },
+  "ownerID": ["850303341435027466", "839631567022325771"],
+  "SlashCommandsGlobal": false, "SlashCommand_Server_id": "896820658653245520",
+  "Enable_MongoDB": false
+}
